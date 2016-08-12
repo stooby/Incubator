@@ -57,7 +57,7 @@
   - Consider implementing simple genetic algorithm that mutates sample playback and FX parameters between 'cross-breeding' serpents to produce new 'offspring' sounds and serpents
   
 --
-This is a work in progress.  Feel free to use, experiment, and contribute:
+This is a work in progress.  Feel free to use, experiment, and contribute: https://github.com/stooby/Incubator
 
 If you're using this for any of your own projects, I'd love to hear about it! => scott(dot)tooby(at)gmail(dot)com
 
